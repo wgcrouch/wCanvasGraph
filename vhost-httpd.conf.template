@@ -1,0 +1,4 @@
+<VirtualHost @vhost1_interface@>
+        ServerName @vhost1_name@
+        DocumentRoot @application_dir@
+</VirtualHost>
